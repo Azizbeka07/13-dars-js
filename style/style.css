@@ -63,13 +63,13 @@
 }
 
 .burger-menu {
-    display: flex;
     flex-direction: column;
     row-gap: 4px;
     display: none;
 }
 
 .burger-menu > div {
+    border-radius: 30px;
     width: 30px;
     height: 3px;
     background: #000;
