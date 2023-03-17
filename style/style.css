@@ -69,7 +69,7 @@
 }
 
 .burger-menu > div {
-    border-radius: 30px;
+    border-radius: 100px;
     width: 30px;
     height: 3px;
     background: #000;
@@ -79,7 +79,7 @@
     padding: 20px;
     max-width: 300px;
     width: 100%;
-    height: 400px;
+    height: 350px;
     background-color: rgb(255, 255, 255);
     border: 2px solid #263238;
     border-bottom-left-radius: 5px;
